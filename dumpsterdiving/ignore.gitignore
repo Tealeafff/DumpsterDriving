@@ -1,0 +1,14 @@
+# Ignore raw sequence data
+*.fastq
+
+# Ignore local BLAST database files
+*.ndb
+*.nhr
+*.nin
+*.nsq
+*.not
+*.ntf
+*.nto
+
+# Ignore massive XML output files
+*.xml
